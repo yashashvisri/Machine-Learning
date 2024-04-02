@@ -1,4 +1,4 @@
-### Welcome 100 days of Machine Learning, Day_2!!
+### Welcome to 100 days of Machine Learning, Day_2!!
 
 Today I learnt about the data analysis using the single columns, i.e Univariate Analysis.
 This can be done for the two types of data i.e Categorical and Numerical using different libraries.
